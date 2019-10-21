@@ -1,5 +1,8 @@
 ## rainbow poem 
 green
-yrllow 
+yellow 
+green
+violet 
+intdigo
 blue 
 black white
