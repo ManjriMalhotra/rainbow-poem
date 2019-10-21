@@ -8,3 +8,4 @@ intdigo
 blue 
 black white
 and the chairs
+and the bed
